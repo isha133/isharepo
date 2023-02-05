@@ -1,2 +1,2 @@
 print("Hello")
-print("How ")
+print("How are khana khake jana ho ")
